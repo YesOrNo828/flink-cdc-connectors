@@ -45,6 +45,7 @@ under the License.
         <module>flink-sql-connector-oracle-cdc</module>
         <module>flink-format-changelog-json</module>
         <module>flink-cdc-e2e-tests</module>
+        <module>examples</module>
     </modules>
 
     <licenses>
